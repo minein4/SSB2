@@ -1,7 +1,7 @@
 ! Version: 20230423
 ! Title: SteamScamBlocker
 ! Expires: 1 day
-! GitHub: <raw URL of your block list file>
+! GitHub: https://raw.githubusercontent.com/minein4/SSB2/main/urls.txt
 
 tradeux.ru
 forcebuy.pp.ua
