@@ -1,4 +1,4 @@
-! Version: 20230507
+! Version: 202305011
 ! Title: SteamScamBlocker
 ! Expires: 1 day
 ! GitHub: https://raw.githubusercontent.com/minein4/SSB2/main/urls.txt
